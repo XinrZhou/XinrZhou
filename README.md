@@ -1,16 +1,20 @@
-### Hi there 👋
+[![Hello, I](./assets/xinr.jpg)]([./images/xinr.jpg](https://github.com/XinrZhou))
 
-<!--
-**XinrZhou/XinrZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me**
 
-Here are some ideas to get you started:
+- 🌱 A **Fullstack developer** from China.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **zhouxinrui02@gmail.com**
+
+[![Xinr](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XinrZhou)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XinrZhou)
+
+![java](https://img.shields.io/badge/Java-gray.svg)
+![typescript](https://img.shields.io/badge/TypeScript-gray.svg?&logo=typescript)
+![typescript](https://img.shields.io/badge/JavaScript-gray.svg?&logo=javascript)
+![vue](https://img.shields.io/badge/Vue-gray.svg?&logo=vue.js)
+![react](https://img.shields.io/badge/React-gray.svg?&logo=React)
+![spring](https://img.shields.io/badge/Spring-gray.svg?&logo=spring)
+![docker](https://img.shields.io/badge/Docker-gray.svg?&logo=docker) 
+![redis](https://img.shields.io/badge/Nginx-gray.svg?&logo=nginx)
+![node](https://img.shields.io/badge/Node-gray.svg?&logo=node.js)
+![redis](https://img.shields.io/badge/Redis-gray.svg?&logo=redis)
