@@ -2,7 +2,7 @@
 
 - My ![Visitor Count](https://profile-counter.glitch.me/XinrZhou/count.svg) visitor
 
-- 🌱 I'm Xinrui Zhou, a **Fullstack developer** from China.
+- 🌱 I'm Xinrui Zhou, a **Frontend developer** from China.
 
 - 📫 How to reach me **zhouxinrui02@gmail.com**
 
