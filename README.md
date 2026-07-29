@@ -1,11 +1,29 @@
-# Hey! Nice to see you.👋 
+<p align="center">
+  <code>XinrZhou</code>
+</p>
 
-- My ![Visitor Count](https://profile-counter.glitch.me/XinrZhou/count.svg) visitor
+<p align="center">
+  Frontend engineer · exploring the edges where product meets intelligence
+</p>
 
-- 🌱 I'm Xinrui Zhou, a **Frontend developer** from China.
+<br/>
 
-- 📫 How to reach me **zhouxinrui02@gmail.com**
+### Now
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XinrZhou&layout=compact)](https://github.com/XinrZhou/github-readme-stats)  
-[![Xinr](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XinrZhou)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XinrZhou) 
+Building interfaces and systems around LLM applications —  
+runtime reliability, context design, and the interaction layer between people and agents.
 
+### Focus
+
+```text
+Frontend Architecture     Interaction & Systems Design
+Agent Runtime             Context Engineering
+Tooling & Orchestration   Product-minded Engineering
+```
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XinrZhou&show_icons=true&theme=graywhite&hide_border=true&bg_color=00000000&title_color=24292f&icon_color=57606a&text_color=57606a&ring_color=d0d7de" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XinrZhou&layout=compact&theme=graywhite&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a" height="150" alt="languages" />
+</p>
